@@ -1,0 +1,21 @@
+export const TYPE_CONFIG = {
+    전체: { cardBg: 'bg-white border-slate-300', badge: 'bg-slate-500 text-white', icon: '🌈' },
+    노말: { cardBg: 'bg-stone-50 border-stone-300', badge: 'bg-stone-400 text-white', icon: '⭐' },
+    불꽃: { cardBg: 'bg-orange-50 border-orange-300', badge: 'bg-orange-500 text-white', icon: '🔥' },
+    물: { cardBg: 'bg-sky-50 border-sky-300', badge: 'bg-sky-500 text-white', icon: '💧' },
+    풀: { cardBg: 'bg-emerald-50 border-emerald-300', badge: 'bg-emerald-500 text-white', icon: '🌿' },
+    전기: { cardBg: 'bg-amber-50 border-amber-300', badge: 'bg-amber-400 text-amber-950', icon: '⚡' },
+    얼음: { cardBg: 'bg-cyan-50 border-cyan-300', badge: 'bg-cyan-400 text-cyan-950', icon: '❄️' },
+    격투: { cardBg: 'bg-red-50 border-red-300', badge: 'bg-red-600 text-white', icon: '🥊' },
+    독: { cardBg: 'bg-purple-50 border-purple-300', badge: 'bg-purple-500 text-white', icon: '☠️' },
+    땅: { cardBg: 'bg-yellow-50 border-yellow-400', badge: 'bg-amber-600 text-white', icon: '🏜️' },
+    비행: { cardBg: 'bg-indigo-50 border-indigo-200', badge: 'bg-indigo-400 text-white', icon: '🕊️' },
+    에스퍼: { cardBg: 'bg-pink-50 border-pink-300', badge: 'bg-pink-400 text-white', icon: '🔮' },
+    벌레: { cardBg: 'bg-lime-50 border-lime-300', badge: 'bg-lime-500 text-white', icon: '🐛' },
+    바위: { cardBg: 'bg-stone-100 border-stone-400', badge: 'bg-stone-600 text-white', icon: '🪨' },
+    고스트: { cardBg: 'bg-violet-50 border-violet-300', badge: 'bg-violet-600 text-white', icon: '👻' },
+    드래곤: { cardBg: 'bg-teal-50 border-teal-300', badge: 'bg-teal-600 text-white', icon: '🐉' },
+    강철: { cardBg: 'bg-slate-100 border-slate-400', badge: 'bg-slate-500 text-white', icon: '⚙️' },
+    악: { cardBg: 'bg-zinc-100 border-zinc-500', badge: 'bg-zinc-800 text-white', icon: '🌑' },
+    페어리: { cardBg: 'bg-rose-50 border-rose-200', badge: 'bg-rose-300 text-rose-950', icon: '🧚' }
+  };

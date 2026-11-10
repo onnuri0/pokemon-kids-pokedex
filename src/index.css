@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Gamja Flower', cursive, sans-serif;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
